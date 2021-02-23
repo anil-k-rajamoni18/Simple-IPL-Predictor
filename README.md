@@ -8,3 +8,5 @@ Deployed at: _https://ipl-inningsscore-predictor.herokuapp.com/_
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
+
+- change the read me file
